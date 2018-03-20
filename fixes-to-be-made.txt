@@ -4,3 +4,4 @@
 4. The genres value in the JSON file is a string but the movie class need it to be an instance of the Genre class...so it displays null --FIXED
 5. TEST CASES (Jasmine and Unittest)
 6. blaa 
+7. hey
